@@ -1,0 +1,8 @@
+2-VERIFICAÇÃO DE CONEXÃO E FUNCIONALIDADE ELÉTRICA;
+2.1 Verifique se a fiação, anilhas e crachás estão em conformidade com o diagrama funcional. Os terminais devem possuir numeração e identificação corretas; Check that the wiring and terminals are in compliance with the functional diagram. Terminals must have the correct identification and numbering;
+2.2 Verifique se a fiação de interligações está em conformidade com o diagrama. A interligação deve possuir identificações e numerações de acordo com o diagrama; Check that interconnection wiring is in compliance with the diagram. Interconnection and customer's terminals must have the identification and numbing according to the diagram;
+2.3 Verifique a conformidade das funções lógicas de sinalização nos IEDs; Check the compliance of the logic functions of signaling in IEDs;
+2.4 Force as saídas digitais no IED e verifique se as mesmas estão comutando corretamente, medindo continuidade na régua de borne; Force the digital outputs on the IED and check that they are switching correctly, measuring continuity in the terminals;
+2.5 Realize os fechamentos corretos nos bornes equivalentes das entradas digitais e verifique a correta atuação no IED; Perform the correct closings on the equivalent terminals of the digital inputs and check the correct performance on the IED;
+2.6 Verifique o correto funcionamento das Entradas/Saídas analógicas; Check the correct operation of the analog inputs/outputs;
+2.7 Verifique a correta funcionalidade elétrica dos equipamentos de comunicação; Check the correct eletrical operation of the communication equipment;
