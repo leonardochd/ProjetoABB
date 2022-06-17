@@ -1,0 +1,7 @@
+3-TESTE DE PROTEÇÃO E CONTROLE;
+3.1.1 Realizar comando de abertura no frontal do IED; Perform open command ad the IED's Local HMI;
+3.1.2 Realizar comando de fechamento no frontal do IED; Perform close command at the IED's Local HMI;
+3.2.1 Forçar a atuação do contato de saída de falha interna do IED. Cortar a corrente contínua dos IEDs e depois retornar. Verificar e registrar o comportamento do sistema, as sinalizações e alarmes pertinentes bem como o registro de eventos; Force the operation of IED's IRF contact. Unplug the auxiliary voltage and plug it back. Check and record the system behavior, signaling, alarms and events;
+3.3.1 Realizar a medição de correntes de fase no frontal do IED; Perform phase current measurement at the IED's Local HMI;
+3.3.2 Realizar a medição de tensões no frontal do IED; Perform voltage measurement at the IED's Local HMI;
+3.3.3 Injetar tensão, variando até os valores ajustados para subtensão e sobretensão e observar atuação no IED; Inject voltage, ranging until the adjusted values for under and overvoltage and check the IED operation;
